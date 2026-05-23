@@ -60,7 +60,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-ashokramesh59%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokramesh59@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Me-blue?style=for-the-badge&logo=web&logoColor=white)](https://ericknoffi.github.io/portfolio-v2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Me-blue?style=for-the-badge&logo=web&logoColor=white)](https://myportfolio-sigma-six-pmz9osd7em.vercel.app/)
 
 ---
 
