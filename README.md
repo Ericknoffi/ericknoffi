@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashokraj</h1>
 
 <h3 align="center">
-🎓 B.E. Information Technology Student | 🤖 ML & Agentic AI Enthusiast | 🚀 Full Stack Developer
+🎓 B.E. Information Technology Student | 🤖 ML & Agentic AI Enthusiast
 </h3>
 
 ---
