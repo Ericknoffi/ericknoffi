@@ -73,7 +73,7 @@
 
 ## 🔗 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashokraj%20Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokraj-ash999/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashokraj%20Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashokraj-dev)
 
 [![Gmail](https://img.shields.io/badge/Gmail-ashokramesh59%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokramesh59@gmail.com)
 
